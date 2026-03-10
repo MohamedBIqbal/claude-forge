@@ -19,14 +19,14 @@ A Claude Code skill for setting up, auditing, and maintaining well-structured AI
 
 ```bash
 # Clone to your Claude Code skills directory
-git clone https://github.com/YOUR_USERNAME/claude-forge.git ~/.claude/skills/claude-forge
+git clone https://github.com/MohamedBIqbal/claude-forge.git ~/.claude/skills/claude-forge
 ```
 
 ### Option 2: Clone to project
 
 ```bash
 # Clone to your project's .claude/skills directory
-git clone https://github.com/YOUR_USERNAME/claude-forge.git .claude/skills/claude-forge
+git clone https://github.com/MohamedBIqbal/claude-forge.git .claude/skills/claude-forge
 ```
 
 ## Usage
